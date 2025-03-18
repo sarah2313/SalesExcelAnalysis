@@ -5,15 +5,24 @@ This project analyzes sales data from an Excel file, extracting key metrics and 
 📂 Repository Structure
 
 📂 Sales-Data-Analysis/
+
 ├── 📂 Data/  (Stores the original Excel files)
+
 ├── 📂 Notebooks/  (Jupyter Notebook for analysis)
+
 ├── 📄 README.md  (Project summary)
+
 ├── 📄 analysis.py  (Python script for automated analysis)
 
+
 📊 Data Insights
+
 1. Sales Performance Overview
+
 Latest Month Sales: 5,187,471
+
 Previous Month Sales: 4,802,968
+
 Growth Rate: ~8.01%
 
 2. Dashboard Visualization
