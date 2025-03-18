@@ -1,4 +1,5 @@
-#**Project Overview**
+**Project Overview**
+
 This project analyzes sales data from an Excel file, extracting key metrics and insights to understand business performance over time. The data includes sales values for different months and calculates growth trends.
 
 📂 Repository Structure
